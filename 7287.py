@@ -1,2 +1,2 @@
-print("55")
+print("26")
 print("train1212")
