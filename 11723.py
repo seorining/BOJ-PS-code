@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 setS = set()
 
 def add(n):
